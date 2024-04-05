@@ -215,3 +215,10 @@ body{
 .container.active .toggle-right{
     transform: translateX(200%);
 }
+
+.error{
+    font-weight: 500;
+    color: rgb(185, 27, 27);
+    text-transform: capitalize;
+    margin:7px 0;
+  }
